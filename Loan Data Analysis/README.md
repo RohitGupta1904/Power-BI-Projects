@@ -2,6 +2,7 @@
 In this project, we delve into the Finance domain with a Bank Loan Analysis using Power BI and SQL.
 
 ## DASHBOARD 1: SUMMARY
+![Screenshot (7)](https://github.com/user-attachments/assets/8f0d40ca-10d3-46d3-86f7-e0e627a35f44)
 
 Key Performance Indicators (KPIs) Requirements:
 
@@ -20,7 +21,7 @@ Key Performance Indicators (KPIs) Requirements:
 
 #### Good Loan v Bad Loan
 1. Good Loan Application Percentage
-2 Good Loan Applications
+2. Good Loan Applications
 3. Good Loan Funded Amount
 4. Good Loan Total Received Amount
 
@@ -35,6 +36,7 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 
 
 ## DASHBOARD 2: OVERVIEW
+![Screenshot (8)](https://github.com/user-attachments/assets/ad983e15-8648-4199-b6e3-ac8a9b23d61f)
 
 ### CHARTS
 **1. Monthly Trends by Issue Date (Line Chart):**  To identify seasonality and long-term trends in lending activities.
@@ -53,6 +55,7 @@ Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Tota
 
 
 ## DASHBOARD 3: DETAILS
+![Screenshot (9)](https://github.com/user-attachments/assets/fed23cff-7a1b-44f0-b6f6-49518e3280c3)
 
 ### GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.

@@ -23,17 +23,26 @@ The dashboard focuses on the following primary KPIs:
 
 ## Key Insights
 1 **Total Sales:** $1.20M in total sales, reflecting strong growth and rising consumer demand.
+
 2 **Sales by Fat Content:** Low-fat items outperformed regular fat products with $776.32K in sales, indicating a shift towards healthier preferences.
+
 3 **Top Categories:** Fruits & Vegetables and Snack Foods each contributed $0.18M in sales, while Household Products and Frozen Foods also showed potential.
+
 4 **Outlet Performance by Tier:** Tier 3 outlets led with $472.13K in sales, highlighting the importance of Tier 3 in driving revenue.
+
 5 **Outlet Size Distribution:** Medium-sized outlets generated the largest share at $507.90K, showing their crucial role in overall sales.
+
 6 **Customer Satisfaction:** The average customer rating of 3.9 indicates room for improvement in service quality and experience.
 
 ## Key Recommendations:
 1 **Expand Healthy Product Lines:** Increase low-fat product offerings to meet growing consumer demand for healthier options.
+
 2 **Maximize High-Performing Categories:** Focus on Fruits & Vegetables and Snack Foods while exploring cross-promotion strategies.
+
 3 **Support Tier 3 Outlets:** Invest in tailored marketing and resources for Tier 3 outlets, which significantly contribute to sales.
+
 4 **Refine Outlet Strategies:** Develop targeted strategies for medium and small-sized outlets to optimize sales performance.
+
 5 **Enhance Customer Experience:** Address areas of improvement in customer satisfaction to increase loyalty and drive repeat purchases.
    
 

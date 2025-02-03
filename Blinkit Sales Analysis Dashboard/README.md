@@ -30,20 +30,28 @@ The dashboard focuses on the following primary KPIs:
 
 4 **Outlet Performance by Tier:** Tier 3 outlets led with $472.13K in sales, highlighting the importance of Tier 3 in driving revenue.
 
-5 **Outlet Size Distribution:** Medium-sized outlets generated the largest share at $507.90K, showing their crucial role in overall sales.
+5 **Outlet Size Distribution:** Medium-sized outlets generated the largest share at $507.90K, showcasing their crucial role in overall sales.
 
-6 **Customer Satisfaction:** The average customer rating of 3.9 indicates room for improvement in service quality and experience.
+6 **Outlet Type Performance:** Supermarket Type 1 generates the highest sales, contributing $787.55K, emphasizing its strong market position.
+
+7 **Trends Over Time:** Sales peaked in 2018 at ₹205K, reflecting historical growth, while current trends show stabilization, signaling a need to reignite growth.
+
+8 **Customer Satisfaction:** The average customer rating of 3.9 indicates room for improvement in service quality and experience.
 
 ## Key Recommendations:
 1 **Expand Healthy Product Lines:** Increase low-fat product offerings to meet growing consumer demand for healthier options.
 
-2 **Maximize High-Performing Categories:** Focus on Fruits & Vegetables and Snack Foods while exploring cross-promotion strategies.
+2 **Maximize High-Performing Categories:** Focus on boosting sales in Fruits & Vegetables and Snack Foods, while exploring cross-promotion opportunities with other categories.
 
-3 **Support Tier 3 Outlets:** Invest in tailored marketing and resources for Tier 3 outlets, which significantly contribute to sales.
+3 **Support Tier 3 Outlets:** Invest in tailored strategies like localized marketing, optimized product assortments, and community engagement to boost Tier 3 outlet sales.
 
-4 **Refine Outlet Strategies:** Develop targeted strategies for medium and small-sized outlets to optimize sales performance.
+4 **Refine Outlet Type Strategies:** Optimize performance at medium and small-sized outlets with localized marketing, tailored product assortments, and better inventory management.
 
 5 **Enhance Customer Experience:** Address areas of improvement in customer satisfaction to increase loyalty and drive repeat purchases.
+
+6 ** Leverage Supermarket Type 1’s Strategies:** Apply its successful approach to optimize sales in other outlet types. Consider expanding or replicating this model in other regions or tiers to maximize overall revenue.
+
+7 **Investigate 2018 Sales Peak:** Analyze the factors that led to the 2018 sales spike to uncover strategies that could reignite similar growth in the future.
    
 
 

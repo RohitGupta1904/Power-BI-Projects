@@ -61,9 +61,54 @@ Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Tota
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 
 ### Objective:
-The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+The objective of this project is to develop a comprehensive Power BI dashboard for analyzing and visualizing bank loan data. By focusing on distinguishing between good and bad loans, the dashboard provides key insights into loan performance, borrower profiles, and repayment trends. The goal is to optimize the loan approval process, improve decision-making, and reduce defaults through actionable, data-driven insights.
 
 
+🔧 𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐝 𝐒𝐭𝐞𝐩𝐬:
+
+✅ Sourced dataset from Kaggle (CSV format) and loaded it into SQL Server.
+
+✅ Performed initial data cleaning in SQL, handling data types and dates.
+
+✅ Wrote complex SQL queries to extract KPIs such as loan applications, funded amounts, average interest rates, and loan status breakdowns.
+
+✅ Categorized loans as 'Good' or 'Bad' based on repayment status.
+
+✅ Analyzed data by issue month, state, loan term, employment length, and more.
+
+✅ Saved SQL query results and compared them with Power BI visuals to ensure data consistency.
+
+✅ Imported cleaned data into Power BI and used Power Query for further transformation.
+
+✅ Created a Calendar Date Table and applied Time Intelligence functions in Power BI.
+
+✅ Modeled relationships between data tables and calculated MTD and MoM metrics.
+
+✅ Designed interactive dashboards in Power BI and calculated KPIs for actionable insights.
+
+📊 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+
+✅ The bank processed 38.6K loan applications, experiencing a MoM growth of 6.9%, indicating growing interest.
+
+✅ With $435.8M in loans funded, the bank saw a 13% MoM increase, showcasing expanded lending activity.
+
+✅ $473.1M in repayments collected, with a 15.8% MoM rise, reflecting strong loan performance.
+
+✅ The average Debt-to-Income (DTI) ratio stands at 13.3%, with a MoM increase of 2.7%, suggesting closer monitoring of affordability.
+
+✅ 86.2% of loans issued are classified as good, highlighting effective risk management.
+
+📌 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+
+📅 Monthly Loan Repayments: A steady increase, peaking at $58M in December, indicates a positive repayment trend.
+
+🌎 Repayments by State: Reveals regions with higher loan activity for targeted strategies.
+
+🏠 Repayments by Loan Term: Loans with a 36-month term account for 62.3% of repayments, indicating a preference among borrowers for short-term loans.
+
+💼 Repayments by Employment Length: Borrowers with 10+ years contributed $126M, indicating a link to job stability.
+
+🏡 Repayments by Home Ownership: Mortgage holders ($238.47M) and renters ($201.82M) contributed the most to repayments.
 
 
 

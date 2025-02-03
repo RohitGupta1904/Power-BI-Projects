@@ -1,6 +1,6 @@
 # Blinkit Grocery Sales Analysis
 ## Project Overview
-This project presents a comprehensive Power BI dashboard that enables stakeholders to analyze sales performance, customer preferences, outlet performance, and category trends in real time. By offering clear visibility into key metrics such as item type, fat content, and regional performance, the dashboard supports informed decision-making to optimize inventory management, enhance customer experience, and refine regional strategies for business growth.
+This project presents a comprehensive Power BI dashboard that enables stakeholders to analyze sales performance, customer preferences, outlet performance and category trends in real time. By offering clear visibility into key metrics such as item type, fat content and regional performance, the dashboard supports informed decision-making to optimize inventory management, enhance customer experience, and refine regional strategies for business growth.
 
 ![Screenshot (12)](https://github.com/user-attachments/assets/0ce69653-43b0-43c6-b17d-1673d9166cf4)
 
